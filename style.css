@@ -295,3 +295,70 @@ body {
     line-height: 28px;
     color: #1A1A1A;
 }
+.T3{
+    position: absolute;
+    Width: 941px;
+    height: 48px;
+    left: 490px;
+    top: 2572px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    color: #1A1A1A;
+}
+.T4{
+    position: absolute;
+    Width: 280px;
+    height: 36px;
+    left: 820px;
+    top: 2649px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #1A1A1A;
+}
+.Im6{
+    position: absolute;
+    height: 327px;
+    left: 360.5px;
+    right: 0%;
+    top: 2808px;
+}
+
+.Rp1{
+    position: absolute;
+    height: 700px;
+    left: 240px;
+    top: 3325px;
+    background: url(.png);
+    border-radius: 0px;
+}
+.Rp2{
+    position: absolute;
+    width: 1344px;
+    height: 700px;
+    left: 288px;
+    top: 3325px;
+    background: url(.jpg);
+    border-radius: 0px;
+}
+.Rp3{
+    position: absolute;
+    height: 700px;
+    left: 1632px;
+    top: 3325px;
+    background: url(.jpg);
+    border-radius: 0px;
+}
+.Fr1{
+    position: absolute;
+    height: 12px;
+    left: 288px;
+    top: 4049px;
+}
