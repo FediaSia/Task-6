@@ -1306,26 +1306,60 @@ body {
     left: 1244px;
     top: 253px;
 }
-.Yes_No{
+.Agree{
     position: absolute;
     width: 28px;
     height: 26px;
     left: 890px;
     top: 328px;
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    box-sizing: border-box;
-    color:#ffffff;
-    background: #2B2B2B;
-}
-.Yes_No:checked{
-    position: absolute;
-    width: 28px;
-    height: 26px;
-    left: 890px;
-    top: 328px;
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    box-sizing: border-box;
-    color:#ffffff;
-    background: #2B2B2B;
 }
 
+.AgreeText{
+    position: absolute;
+    width: 369px;
+    height: 78px;
+    left: 938px;
+    top: 328px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.5);
+}
+.BT33{
+    position: absolute;
+    width: 72px;
+    height: 60px;
+    left: 1199px;
+    top: 464px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 60px;
+    text-align: right;
+    letter-spacing: 2.3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.BT34{
+    position: absolute;
+    width: 180px;
+    height: 13px;
+    left: 1320px;
+    top: 500px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    transform: rotate(-90deg);
+    text-decoration: none;
+}
