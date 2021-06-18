@@ -1276,3 +1276,56 @@ body {
     letter-spacing: 0.5px;
     color: #FFFFFF; 
 }
+ .Wr1{
+    position: absolute;
+    width: 327px;
+    height: 54px;
+    left: 938px;
+    top: 181px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-sizing: border-box;
+    border-radius: 3px;
+    background: #2B2B2B;
+ }
+
+ .BT32{
+    position: absolute;
+    height: 21px;
+    left: 1161px;
+    top: 251px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+}
+.G1{
+    position: absolute;
+    left: 1244px;
+    top: 253px;
+}
+.Yes_No{
+    position: absolute;
+    width: 28px;
+    height: 26px;
+    left: 890px;
+    top: 328px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    color:#ffffff;
+    background: #2B2B2B;
+}
+.Yes_No:checked{
+    position: absolute;
+    width: 28px;
+    height: 26px;
+    left: 890px;
+    top: 328px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    color:#ffffff;
+    background: #2B2B2B;
+}
+
